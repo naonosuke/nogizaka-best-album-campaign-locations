@@ -15,15 +15,15 @@
 
 ## データ形式
 
-```
-    {
-        "name": "駅の名前",
-        "postalCode": "郵便番号",
-        "state": "住所（都道府県）",
-        "city": "住所（市郡）",
-        "address1": "住所（それ以下）",
-        "address2": "住所（建物名等）",
-        "latitude": "経度",
-        "longtude": "緯度"
-    }
+```json
+{
+    "name": "駅の名前",
+    "postalCode": "郵便番号",
+    "state": "住所（都道府県）",
+    "city": "住所（市郡）",
+    "address1": "住所（それ以下）",
+    "address2": "住所（建物名等）",
+    "latitude": "経度",
+    "longtude": "緯度"
+}
 ```
