@@ -1,0 +1,392 @@
+[
+    {
+        "name": "鶴ヶ坂駅",
+        "postalCode": "0380045",
+        "state": "青森県",
+        "city": "青森市",
+        "address1": "大字鶴ケ坂字川合９１",
+        "address2": "",
+        "latitude": "40.7912116",
+        "longtude": "140.6351394"
+    },
+    {
+        "name": "白坂駅",
+        "postalCode": "9610835",
+        "state": "福島県",
+        "city": "白河市",
+        "address1": "白坂大倉矢見８６",
+        "address2": "",
+        "latitude": "37.095255",
+        "longtude": "140.1846279"
+    },
+    {
+        "name": "庭坂駅",
+        "postalCode": "9602261",
+        "state": "福島県",
+        "city": "福島市",
+        "address1": "町庭坂字狐林１０",
+        "address2": "",
+        "latitude": "37.7716716",
+        "longtude": "140.3898384"
+    },
+    {
+        "name": "花水坂駅",
+        "postalCode": "9600201",
+        "state": "福島県",
+        "city": "福島市",
+        "address1": "飯坂町字町裏５－１",
+        "address2": "",
+        "latitude": "37.8274845",
+        "longtude": "140.4507673"
+    },
+    {
+        "name": "蒲須坂駅",
+        "postalCode": "3291332",
+        "state": "栃木県",
+        "city": "さくら市",
+        "address1": "蒲須坂６９８",
+        "address2": "",
+        "latitude": "36.7207643",
+        "longtude": "139.9504151"
+    },
+    {
+        "name": "赤坂駅",
+        "postalCode": "1070052",
+        "state": "東京都",
+        "city": "港区",
+        "address1": "赤坂５丁目４－５",
+        "address2": "",
+        "latitude": "",
+        "longtude": ""
+    },
+    {
+        "name": "高坂駅",
+        "postalCode": "3550047",
+        "state": "埼玉県",
+        "city": "東松山市",
+        "address1": "大字高坂１３３４",
+        "address2": "",
+        "latitude": "",
+        "longtude": ""
+    },
+    {
+        "name": "赤坂駅",
+        "postalCode": "3710007",
+        "state": "群馬県",
+        "city": "前橋市",
+        "address1": "上泉町３４４４－３",
+        "address2": "",
+        "latitude": "",
+        "longtude": ""
+    },
+    {
+        "name": "八坂駅",
+        "postalCode": "1890013",
+        "state": "東京都",
+        "city": "東村山市",
+        "address1": "栄町３丁目１８－１",
+        "address2": "",
+        "latitude": "35.7449719",
+        "longtude": "139.4677187"
+    },
+    {
+        "name": "神楽坂駅",
+        "postalCode": "1620805",
+        "state": "東京都",
+        "city": "新宿区",
+        "address1": "矢来町１１２",
+        "address2": "",
+        "latitude": "35.7038726",
+        "longtude": "139.7343636"
+    },
+    {
+        "name": "宮の坂駅",
+        "postalCode": "1560051",
+        "state": "東京都",
+        "city": "世田谷区",
+        "address1": "宮坂１丁目２４－７",
+        "address2": "",
+        "latitude": "35.6477106",
+        "longtude": "139.6449575"
+    },
+    {
+        "name": "牛込神楽坂駅",
+        "postalCode": "1620833",
+        "state": "東京都",
+        "city": "新宿区",
+        "address1": "箪笥町１５",
+        "address2": "",
+        "latitude": "35.700484",
+        "longtude": "139.7348087"
+    },
+    {
+        "name": "婦中鵜坂駅",
+        "postalCode": "9392701",
+        "state": "富山県",
+        "city": "富山市",
+        "address1": "婦中町西本郷１１６２－３",
+        "address2": "",
+        "latitude": "36.6782459",
+        "longtude": "137.1689372"
+    },
+    {
+        "name": "発坂駅",
+        "postalCode": "9110848",
+        "state": "福井県",
+        "city": "勝山市",
+        "address1": "鹿谷町保田９７－８",
+        "address2": "",
+        "latitude": "36.0726319",
+        "longtude": "136.466153"
+    },
+    {
+        "name": "赤坂駅",
+        "postalCode": "4020005",
+        "state": "山梨県",
+        "city": "都留市",
+        "address1": "四日市場８７－２",
+        "address2": "",
+        "latitude": "35.5661622",
+        "longtude": "138.9161422"
+    },
+    {
+        "name": "長坂駅",
+        "postalCode": "4080021",
+        "state": "山梨県",
+        "city": "北杜市",
+        "address1": "長坂町長坂上条２５７５",
+        "address2": "",
+        "latitude": "35.827466",
+        "longtude": "138.366616"
+    },
+    {
+        "name": "須坂駅",
+        "postalCode": "3820076",
+        "state": "長野県",
+        "city": "須坂市",
+        "address1": "大字須坂１２８８－２",
+        "address2": "",
+        "latitude": "36.6567823",
+        "longtude": "138.3042544"
+    },
+    {
+        "name": "北須坂駅",
+        "postalCode": "3820071",
+        "state": "長野県",
+        "city": "須坂市",
+        "address1": "大字小河原２１２９－４",
+        "address2": "",
+        "latitude": "36.6782119",
+        "longtude": "138.3086972"
+    },
+    {
+        "name": "八坂駅",
+        "postalCode": "5014101",
+        "state": "岐阜県",
+        "city": "郡上市",
+        "address1": "美並町上田２０４６－５",
+        "address2": "",
+        "latitude": "35.6201864",
+        "longtude": "136.9450225"
+    },
+    {
+        "name": "東赤坂駅",
+        "postalCode": "5032326",
+        "state": "岐阜県",
+        "city": "安八郡",
+        "address1": "神戸町大字中沢１２４－６",
+        "address2": "",
+        "latitude": "35.3941618",
+        "longtude": "136.6009789"
+    },
+    {
+        "name": "飛騨小坂駅",
+        "postalCode": "5093106",
+        "state": "岐阜県",
+        "city": "下呂市",
+        "address1": "小坂町大島",
+        "address2": "",
+        "latitude": "35.9508363",
+        "longtude": "137.2569018"
+    },
+    {
+        "name": "美濃赤坂駅",
+        "postalCode": "5032213",
+        "state": "岐阜県",
+        "city": "大垣市",
+        "address1": "赤坂町１５３－１",
+        "address2": "",
+        "latitude": "35.3866102",
+        "longtude": "136.5821249"
+    },
+    {
+        "name": "尼ヶ坂駅",
+        "postalCode": "4620837",
+        "state": "愛知県",
+        "city": "名古屋市",
+        "address1": "北区大杉１丁目２０２２",
+        "address2": "",
+        "latitude": "35.187887",
+        "longtude": "136.9191266"
+    },
+    {
+        "name": "茶屋ヶ坂駅",
+        "postalCode": "4640092",
+        "state": "愛知県",
+        "city": "名古屋市",
+        "address1": "千種区茶屋が坂１丁目２１１６",
+        "address2": "",
+        "latitude": "35.1846938",
+        "longtude": "136.9622229"
+    },
+    {
+        "name": "名電赤坂駅",
+        "postalCode": "4410202",
+        "state": "愛知県",
+        "city": "豊川市",
+        "address1": "赤坂町松本１８１",
+        "address2": "",
+        "latitude": "34.8593438",
+        "longtude": "137.3111805"
+    },
+    {
+        "name": "江坂駅",
+        "postalCode": "5640051",
+        "state": "大阪府",
+        "city": "吹田市",
+        "address1": "豊津町１００",
+        "address2": "",
+        "latitude": "34.7597786",
+        "longtude": "135.4971614"
+    },
+    {
+        "name": "聖天坂駅",
+        "postalCode": "5570013",
+        "state": "大阪府",
+        "city": "大阪市",
+        "address1": "西成区天神ノ森１丁目１１",
+        "address2": "",
+        "latitude": "34.6331554",
+        "longtude": "135.4994821"
+    },
+    {
+        "name": "浜坂駅",
+        "postalCode": "6696702",
+        "state": "兵庫県",
+        "city": "美方郡",
+        "address1": "新温泉町浜坂２３３０－１",
+        "address2": "",
+        "latitude": "35.6206491",
+        "longtude": "134.4526174"
+    },
+    {
+        "name": "黒坂駅",
+        "postalCode": "6895131",
+        "state": "鳥取県",
+        "city": "日野郡",
+        "address1": "日野町黒坂１５７３",
+        "address2": "",
+        "latitude": "35.2064331",
+        "longtude": "133.3834864"
+    },
+    {
+        "name": "黒坂駅",
+        "postalCode": "7314312",
+        "state": "広島県",
+        "city": "安芸郡",
+        "address1": "坂町平成ヶ浜３丁目１－１",
+        "address2": "",
+        "latitude": "34.3387455",
+        "longtude": "132.510739"
+    },
+    {
+        "name": "戸坂駅",
+        "postalCode": "7320001",
+        "state": "広島県",
+        "city": "広島市",
+        "address1": "東区戸坂惣田１丁目１７",
+        "address2": "",
+        "latitude": "34.4385266",
+        "longtude": "132.4909325"
+    },
+    {
+        "name": "三良坂駅",
+        "postalCode": "7294304",
+        "state": "広島県",
+        "city": "三次市",
+        "address1": "三良坂町三良坂９８９－２",
+        "address2": "",
+        "latitude": "34.7661648",
+        "longtude": "132.9577627"
+    },
+    {
+        "name": "備後赤坂駅",
+        "postalCode": "7200843",
+        "state": "広島県",
+        "city": "福山市",
+        "address1": "赤坂町大字赤坂１２２６",
+        "address2": "",
+        "latitude": "34.472136",
+        "longtude": "133.3059147"
+    },
+    {
+        "name": "赤坂駅",
+        "postalCode": "8100041",
+        "state": "福岡県",
+        "city": "福岡市",
+        "address1": "中央区大名２丁目５−番31号",
+        "address2": "",
+        "latitude": "33.5889816",
+        "longtude": "130.392978"
+    },
+    {
+        "name": "味坂駅",
+        "postalCode": "8380135",
+        "state": "福岡県",
+        "city": "小郡市",
+        "address1": "赤川２３",
+        "address2": "",
+        "latitude": "33.3531806",
+        "longtude": "130.5407235"
+    },
+    {
+        "name": "桜坂駅",
+        "postalCode": "8100024",
+        "state": "福岡県",
+        "city": "福岡市",
+        "address1": "中央区桜坂３丁目８−１",
+        "address2": "",
+        "latitude": "33.5772091",
+        "longtude": "130.3873954"
+    },
+    {
+        "name": "三間坂駅",
+        "postalCode": "8492303",
+        "state": "佐賀県",
+        "city": "武雄市",
+        "address1": "山内町大字三間坂１４０５７",
+        "address2": "",
+        "latitude": "33.1947438",
+        "longtude": "129.9477253"
+    },
+    {
+        "name": "韓々坂駅",
+        "postalCode": "8600079",
+        "state": "熊本県",
+        "city": "熊本市",
+        "address1": "西区上熊本３丁目５５２",
+        "address2": "",
+        "latitude": "33.1947438",
+        "longtude": "129.9477253"
+    },
+    {
+        "name": "田原坂駅",
+        "postalCode": "8610155",
+        "state": "熊本県",
+        "city": "熊本市",
+        "address1": "北区植木町轟１６８７",
+        "address2": "",
+        "latitude": "32.8994185",
+        "longtude": "130.6531633"
+    }
+]
